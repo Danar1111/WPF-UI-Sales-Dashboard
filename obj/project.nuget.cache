@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fZ/hKbQlhieVYPH3yj6t10Hz7eyBFrzqbzT+esiYBP/LUbd+EP24Ufru2Px8XwDMh57WrQB4AaJJmL+B2QKAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\priya\\OneDrive\\Dokumen\\Tugas\\PBKK\\other\\Sales-Dashboard-WPF-master\\Sales-Dashboard-WPF-master\\Sales Dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priya\\.nuget\\packages\\livecharts.wpf.netcore3\\0.9.7\\livecharts.wpf.netcore3.0.9.7.nupkg.sha512",
+    "C:\\Users\\priya\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\priya\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

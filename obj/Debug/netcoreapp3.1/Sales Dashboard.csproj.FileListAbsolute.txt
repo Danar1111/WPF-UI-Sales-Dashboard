@@ -1,0 +1,33 @@
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\Sales Dashboard.exe
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\Sales Dashboard.deps.json
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\Sales Dashboard.runtimeconfig.json
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\Sales Dashboard.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\Sales Dashboard.dll
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\Sales Dashboard.pdb
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\UserControls\InfoCard.baml
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\UserControls\Legends.baml
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\UserControls\UserCard.baml
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\UserControls\InfoCard.g.cs
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\UserControls\Legends.g.cs
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\UserControls\UserCard.g.cs
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard_MarkupCompile.cache
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard_MarkupCompile.lref
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.g.resources
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.csproj.CopyComplete
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.dll
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.pdb
+C:\Users\priya\OneDrive\Dokumen\Tugas\PBKK\other\Sales-Dashboard-WPF-master\Sales-Dashboard-WPF-master\obj\Debug\netcoreapp3.1\Sales Dashboard.genruntimeconfig.cache
